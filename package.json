@@ -1,0 +1,17 @@
+{
+    "name": "fakelambda",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "! Zombel AKA Nikt",
+    "license": "ISC",
+    "dependencies": {
+        "discord.js": "^12.5.1",
+        "fs": "^0.0.1-security",
+        "imageapi.js": "^1.3.2",
+        "path": "^0.12.7",
+        "pm2": "^4.5.1"
+    }
+}
